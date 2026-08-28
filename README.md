@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Nick's GitHub stats](https://github-stats-extended.vercel.app/api?username=Nick1232345)](https://github.com/stats-organization/github-stats-extended)
+[![Nick's Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=dark)
